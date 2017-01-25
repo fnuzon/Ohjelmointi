@@ -1,0 +1,6 @@
+D:\H8946\Demo01\Teht01\bin\Debug\Teht01.exe.config
+D:\H8946\Demo01\Teht01\bin\Debug\Teht01.exe
+D:\H8946\Demo01\Teht01\bin\Debug\Teht01.pdb
+D:\H8946\Demo01\Teht01\obj\Debug\Teht01.csprojResolveAssemblyReference.cache
+D:\H8946\Demo01\Teht01\obj\Debug\Teht01.exe
+D:\H8946\Demo01\Teht01\obj\Debug\Teht01.pdb

@@ -1,0 +1,6 @@
+C:\Users\Niko\Desktop\Demo01\Teht11\bin\Debug\Teht11.exe.config
+C:\Users\Niko\Desktop\Demo01\Teht11\bin\Debug\Teht11.exe
+C:\Users\Niko\Desktop\Demo01\Teht11\bin\Debug\Teht11.pdb
+C:\Users\Niko\Desktop\Demo01\Teht11\obj\Debug\Teht11.exe
+C:\Users\Niko\Desktop\Demo01\Teht11\obj\Debug\Teht11.pdb
+C:\Users\Niko\Desktop\Demo01\Teht11\obj\Debug\Teht11.csprojResolveAssemblyReference.cache

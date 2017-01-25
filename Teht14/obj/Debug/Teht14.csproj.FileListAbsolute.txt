@@ -1,0 +1,6 @@
+D:\Koulujutut\Demo01\Teht14\bin\Debug\Teht14.exe.config
+D:\Koulujutut\Demo01\Teht14\bin\Debug\Teht14.exe
+D:\Koulujutut\Demo01\Teht14\bin\Debug\Teht14.pdb
+D:\Koulujutut\Demo01\Teht14\obj\Debug\Teht14.exe
+D:\Koulujutut\Demo01\Teht14\obj\Debug\Teht14.pdb
+D:\Koulujutut\Demo01\Teht14\obj\Debug\Teht14.csprojResolveAssemblyReference.cache

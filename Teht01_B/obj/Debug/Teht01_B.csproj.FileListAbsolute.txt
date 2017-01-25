@@ -1,0 +1,5 @@
+D:\H8946\Demo01\Teht01_B\bin\Debug\Teht01_B.exe.config
+D:\H8946\Demo01\Teht01_B\bin\Debug\Teht01_B.exe
+D:\H8946\Demo01\Teht01_B\bin\Debug\Teht01_B.pdb
+D:\H8946\Demo01\Teht01_B\obj\Debug\Teht01_B.exe
+D:\H8946\Demo01\Teht01_B\obj\Debug\Teht01_B.pdb

@@ -1,0 +1,5 @@
+D:\Koulujutut\Demo01\Teht16\bin\Debug\Teht16.exe.config
+D:\Koulujutut\Demo01\Teht16\bin\Debug\Teht16.exe
+D:\Koulujutut\Demo01\Teht16\bin\Debug\Teht16.pdb
+D:\Koulujutut\Demo01\Teht16\obj\Debug\Teht16.exe
+D:\Koulujutut\Demo01\Teht16\obj\Debug\Teht16.pdb

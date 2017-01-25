@@ -1,0 +1,11 @@
+D:\H8946\Demo01\Teht3\bin\Debug\Teht3.exe.config
+D:\H8946\Demo01\Teht3\bin\Debug\Teht3.exe
+D:\H8946\Demo01\Teht3\bin\Debug\Teht3.pdb
+D:\H8946\Demo01\Teht3\obj\Debug\Teht3.exe
+D:\H8946\Demo01\Teht3\obj\Debug\Teht3.pdb
+C:\Users\Niko\Desktop\Demo01\Teht3\bin\Debug\Teht3.exe.config
+C:\Users\Niko\Desktop\Demo01\Teht3\obj\Debug\Teht3.exe
+C:\Users\Niko\Desktop\Demo01\Teht3\obj\Debug\Teht3.pdb
+C:\Users\Niko\Desktop\Demo01\Teht3\bin\Debug\Teht3.exe
+C:\Users\Niko\Desktop\Demo01\Teht3\bin\Debug\Teht3.pdb
+C:\Users\Niko\Desktop\Demo01\Teht3\obj\Debug\Teht3.csprojResolveAssemblyReference.cache

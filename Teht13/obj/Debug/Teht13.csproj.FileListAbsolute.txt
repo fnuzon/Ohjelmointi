@@ -1,0 +1,6 @@
+D:\Koulujutut\Demo01\Teht13\bin\Debug\Teht13.exe.config
+D:\Koulujutut\Demo01\Teht13\bin\Debug\Teht13.exe
+D:\Koulujutut\Demo01\Teht13\bin\Debug\Teht13.pdb
+D:\Koulujutut\Demo01\Teht13\obj\Debug\Teht13.exe
+D:\Koulujutut\Demo01\Teht13\obj\Debug\Teht13.pdb
+D:\Koulujutut\Demo01\Teht13\obj\Debug\Teht13.csprojResolveAssemblyReference.cache

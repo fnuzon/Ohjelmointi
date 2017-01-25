@@ -1,0 +1,11 @@
+C:\Users\Niko\Desktop\Demo01\Teht12\bin\Debug\Teht12.exe.config
+C:\Users\Niko\Desktop\Demo01\Teht12\bin\Debug\Teht12.exe
+C:\Users\Niko\Desktop\Demo01\Teht12\bin\Debug\Teht12.pdb
+C:\Users\Niko\Desktop\Demo01\Teht12\obj\Debug\Teht12.exe
+C:\Users\Niko\Desktop\Demo01\Teht12\obj\Debug\Teht12.pdb
+D:\Koulujutut\Demo01\Teht12\bin\Debug\Teht12.exe.config
+D:\Koulujutut\Demo01\Teht12\obj\Debug\Teht12.exe
+D:\Koulujutut\Demo01\Teht12\obj\Debug\Teht12.pdb
+D:\Koulujutut\Demo01\Teht12\bin\Debug\Teht12.exe
+D:\Koulujutut\Demo01\Teht12\bin\Debug\Teht12.pdb
+D:\Koulujutut\Demo01\Teht12\obj\Debug\Teht12.csprojResolveAssemblyReference.cache

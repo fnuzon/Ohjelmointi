@@ -1,0 +1,5 @@
+C:\Users\Niko\Desktop\Demo01\Teht04\bin\Debug\Teht04.exe.config
+C:\Users\Niko\Desktop\Demo01\Teht04\bin\Debug\Teht04.exe
+C:\Users\Niko\Desktop\Demo01\Teht04\bin\Debug\Teht04.pdb
+C:\Users\Niko\Desktop\Demo01\Teht04\obj\Debug\Teht04.exe
+C:\Users\Niko\Desktop\Demo01\Teht04\obj\Debug\Teht04.pdb
