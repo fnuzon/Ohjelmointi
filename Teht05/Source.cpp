@@ -4,35 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Teht04
+namespace ConsoleApplication2
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-			float age;
-
-			Console.Write("Give age: ");
-			age = float.Parse(Console.ReadLine());
-
-			if (age < 18)
-			{
-				Console.WriteLine(" Alaikainen ");
-			}
-
-			else if (age >= 18 && age <= 65)
-			{
-				Console.WriteLine(" Aikuinen ");
-			}
-
-			else
-			{
-				Console.WriteLine(" Seniori ");
-			}
-
-		}
-
-
-
-	}
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int seconds;
+            Console.Write("Give seconds:");
+            seconds = int.Parse(Console.ReadLine());
+            var timespan = TimeSpan.FromSeconds(seconds);
+            Console.WriteLine(timespan.ToString(@"hh\:m\:ss"));
+        }
+    }
 }
