@@ -6,3 +6,9 @@ D:\Koulujutut\Demo01\Teht17\obj\Debug\Teht17.pdb
 D:\Koulujutut\Github\Teht17\bin\Debug\Teht17.exe.config
 D:\Koulujutut\Github\Teht17\obj\Debug\Teht17.exe
 D:\Koulujutut\Github\Teht17\obj\Debug\Teht17.pdb
+D:\H8946_!\Teht17\bin\Debug\Teht17.exe.config
+D:\H8946_!\Teht17\obj\Debug\Teht17.exe
+D:\H8946_!\Teht17\obj\Debug\Teht17.pdb
+D:\H8946_!\Teht17\bin\Debug\Teht17.exe
+D:\H8946_!\Teht17\bin\Debug\Teht17.pdb
+D:\H8946_!\Teht17\obj\Debug\Teht17.csprojResolveAssemblyReference.cache
