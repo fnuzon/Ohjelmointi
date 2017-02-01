@@ -16,28 +16,42 @@ namespace HeaterApplication
             ///  testing...
             Heater heater = new Heater("Harvia 9000", 55, 80.7, false);
             int input;
-            Console.WriteLine("1. Switch state of heater");
-            Console.WriteLine("2. Change temperature");
-            Console.WriteLine("3. Change humidity");
-            Console.WriteLine("Use 0 to end the loop");
-            Console.WriteLine("What do you want to do? ");
-            input = int.Parse(Console.ReadLine());
-            while (input != 0)
+            int value;
+            do
             {
                 Console.WriteLine("1. Switch state of heater");
                 Console.WriteLine("2. Change temperature");
                 Console.WriteLine("3. Change humidity");
+                Console.WriteLine("4. Print data");
                 Console.WriteLine("Use 0 to end the loop");
-                switch (input)
+                Console.WriteLine("What do you want to do? ");
+                input = int.Parse(Console.ReadLine());
+                if (input == 1)
                 {
-                    case 1: heater.Power();
-                        break;
-                    case 2: heater.TempChange();
-                        break;
-                    case 3: heater.HumChange();
-                        break;
+                    heater.Power();
+                    Console.WriteLine("State have been changed.");
                 }
+                if (input == 2)
+                {
+                    Console.WriteLine("Give new temperature:");
+                    value = int.Parse(Console.ReadLine());
+                    heater.Temp = value;                    
+                }
+                if (input == 3)
+                {
+                    Console.WriteLine("Give new humidity value:");
+                    value = int.Parse(Console.ReadLine());
+                    heater.Humidity = value;
+                }
+                if (input == 4)
+                {
+                    heater.PrintData();
+                }
+                
+            }
+            while (input != 0);
+            
             }
         }
     }
-}
+

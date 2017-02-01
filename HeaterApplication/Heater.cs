@@ -21,38 +21,23 @@ namespace HeaterApplication
             Humidity = hum;
             IsOn = ison;
         }
-       
+
         /// methods
-         public void Power()
+        public void Power()
         {
-            bool value;
-            Console.WriteLine("State of heater?: ");
-            value = bool.Parse(Console.ReadLine());
-            if (value == false)
+            if (IsOn == true)
             {
                 IsOn = false;
             }
-            if (value == true)
-            {
-                IsOn = true;
-            }
-            Console.WriteLine("State of the heater: " + IsOn);
+            else IsOn = true;
         }
-        public void TempChange()
+
+        public void PrintData()
         {
-            int value;
-            Console.WriteLine("Give temperature: " );
-            value = int.Parse(Console.ReadLine());
-            Temp = value;
-            Console.WriteLine(Temp);
-        }
-        public void HumChange()
-        {
-            double value;
-            Console.WriteLine("Give Humidity: ");
-            value = int.Parse(Console.ReadLine());
-            Humidity = value;
-            Console.WriteLine(Humidity);
+            Console.WriteLine("Model: " + Model);            
+            Console.WriteLine("Temperature: " + Temp);
+            Console.WriteLine("Humidity: " + Humidity);
+            Console.WriteLine("Power: " + IsOn);            
         }
     }
 }

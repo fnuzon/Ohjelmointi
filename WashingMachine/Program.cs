@@ -20,6 +20,7 @@ namespace WashingMachine
                 Console.WriteLine("3. Change the water temperature(integer only)");
                 Console.WriteLine("4. Is the washer empty or not?");
                 Console.WriteLine("5. Print data");
+                Console.WriteLine("Use 0 to end the loop");
                 Console.WriteLine("Give your choice: ");
                 input = int.Parse(Console.ReadLine());
 

@@ -7,3 +7,6 @@ D:\H8946_!\HeaterApplication\obj\Debug\HeaterApplication.pdb
 D:\H89\HeaterApplication\bin\Debug\HeaterApplication.exe.config
 D:\H89\HeaterApplication\obj\Debug\HeaterApplication.exe
 D:\H89\HeaterApplication\obj\Debug\HeaterApplication.pdb
+D:\H89\HeaterApplication\obj\Debug\HeaterApplication.csprojResolveAssemblyReference.cache
+D:\H89\HeaterApplication\bin\Debug\HeaterApplication.exe
+D:\H89\HeaterApplication\bin\Debug\HeaterApplication.pdb
