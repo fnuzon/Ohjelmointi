@@ -1,0 +1,6 @@
+D:\Koulujutut\ohjelmointi\StudentRegister\bin\Debug\StudentRegister.exe.config
+D:\Koulujutut\ohjelmointi\StudentRegister\bin\Debug\StudentRegister.exe
+D:\Koulujutut\ohjelmointi\StudentRegister\bin\Debug\StudentRegister.pdb
+D:\Koulujutut\ohjelmointi\StudentRegister\obj\Debug\StudentRegister.csprojResolveAssemblyReference.cache
+D:\Koulujutut\ohjelmointi\StudentRegister\obj\Debug\StudentRegister.exe
+D:\Koulujutut\ohjelmointi\StudentRegister\obj\Debug\StudentRegister.pdb

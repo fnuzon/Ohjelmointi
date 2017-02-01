@@ -1,0 +1,6 @@
+D:\Koulujutut\ohjelmointi\VehicleApplication\bin\Debug\VehicleApplication.exe.config
+D:\Koulujutut\ohjelmointi\VehicleApplication\bin\Debug\VehicleApplication.exe
+D:\Koulujutut\ohjelmointi\VehicleApplication\bin\Debug\VehicleApplication.pdb
+D:\Koulujutut\ohjelmointi\VehicleApplication\obj\Debug\VehicleApplication.csprojResolveAssemblyReference.cache
+D:\Koulujutut\ohjelmointi\VehicleApplication\obj\Debug\VehicleApplication.exe
+D:\Koulujutut\ohjelmointi\VehicleApplication\obj\Debug\VehicleApplication.pdb

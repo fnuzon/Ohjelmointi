@@ -4,3 +4,6 @@ D:\H89\WashingMachine\bin\Debug\WashingMachine.pdb
 D:\H89\WashingMachine\obj\Debug\WashingMachine.csprojResolveAssemblyReference.cache
 D:\H89\WashingMachine\obj\Debug\WashingMachine.exe
 D:\H89\WashingMachine\obj\Debug\WashingMachine.pdb
+D:\Koulujutut\ohjelmointi\WashingMachine\bin\Debug\WashingMachine.exe.config
+D:\Koulujutut\ohjelmointi\WashingMachine\obj\Debug\WashingMachine.exe
+D:\Koulujutut\ohjelmointi\WashingMachine\obj\Debug\WashingMachine.pdb

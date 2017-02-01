@@ -1,0 +1,6 @@
+D:\Koulujutut\ohjelmointi\TvApplication\bin\Debug\TvApplication.exe.config
+D:\Koulujutut\ohjelmointi\TvApplication\bin\Debug\TvApplication.exe
+D:\Koulujutut\ohjelmointi\TvApplication\bin\Debug\TvApplication.pdb
+D:\Koulujutut\ohjelmointi\TvApplication\obj\Debug\TvApplication.csprojResolveAssemblyReference.cache
+D:\Koulujutut\ohjelmointi\TvApplication\obj\Debug\TvApplication.exe
+D:\Koulujutut\ohjelmointi\TvApplication\obj\Debug\TvApplication.pdb
