@@ -1,0 +1,5 @@
+D:\H8\PersonApplication\bin\Debug\PersonApplication.exe.config
+D:\H8\PersonApplication\bin\Debug\PersonApplication.exe
+D:\H8\PersonApplication\bin\Debug\PersonApplication.pdb
+D:\H8\PersonApplication\obj\Debug\PersonApplication.exe
+D:\H8\PersonApplication\obj\Debug\PersonApplication.pdb

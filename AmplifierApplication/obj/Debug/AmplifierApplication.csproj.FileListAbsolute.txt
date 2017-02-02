@@ -1,0 +1,5 @@
+D:\H8\AmplifierApplication\bin\Debug\AmplifierApplication.exe.config
+D:\H8\AmplifierApplication\bin\Debug\AmplifierApplication.exe
+D:\H8\AmplifierApplication\bin\Debug\AmplifierApplication.pdb
+D:\H8\AmplifierApplication\obj\Debug\AmplifierApplication.exe
+D:\H8\AmplifierApplication\obj\Debug\AmplifierApplication.pdb
