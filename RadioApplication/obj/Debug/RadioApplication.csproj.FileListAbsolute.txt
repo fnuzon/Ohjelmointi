@@ -1,0 +1,6 @@
+D:\Koulujutut\git\RadioApplication\bin\Debug\RadioApplication.exe.config
+D:\Koulujutut\git\RadioApplication\bin\Debug\RadioApplication.exe
+D:\Koulujutut\git\RadioApplication\bin\Debug\RadioApplication.pdb
+D:\Koulujutut\git\RadioApplication\obj\Debug\RadioApplication.csprojResolveAssemblyReference.cache
+D:\Koulujutut\git\RadioApplication\obj\Debug\RadioApplication.exe
+D:\Koulujutut\git\RadioApplication\obj\Debug\RadioApplication.pdb

@@ -4,3 +4,9 @@ D:\H8\ElevatorApplication\bin\Debug\ElevatorApplication.pdb
 D:\H8\ElevatorApplication\obj\Debug\ElevatorApplication.csprojResolveAssemblyReference.cache
 D:\H8\ElevatorApplication\obj\Debug\ElevatorApplication.exe
 D:\H8\ElevatorApplication\obj\Debug\ElevatorApplication.pdb
+D:\Koulujutut\git\ElevatorApplication\bin\Debug\ElevatorApplication.exe.config
+D:\Koulujutut\git\ElevatorApplication\obj\Debug\ElevatorApplication.exe
+D:\Koulujutut\git\ElevatorApplication\obj\Debug\ElevatorApplication.pdb
+D:\Koulujutut\git\ElevatorApplication\bin\Debug\ElevatorApplication.exe
+D:\Koulujutut\git\ElevatorApplication\bin\Debug\ElevatorApplication.pdb
+D:\Koulujutut\git\ElevatorApplication\obj\Debug\ElevatorApplication.csprojResolveAssemblyReference.cache

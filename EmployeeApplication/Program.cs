@@ -9,7 +9,7 @@ namespace EmployeeApplication
     class Program
     {
         static void Main(string[] args)
-        {
+        {           
             int input, inpuT, sal, bon, index;
             string name, proff, car, inpt;
        

@@ -1,0 +1,6 @@
+D:\Koulujutut\git\BikeBoatApplication\bin\Debug\BikeBoatApplication.exe.config
+D:\Koulujutut\git\BikeBoatApplication\bin\Debug\BikeBoatApplication.exe
+D:\Koulujutut\git\BikeBoatApplication\bin\Debug\BikeBoatApplication.pdb
+D:\Koulujutut\git\BikeBoatApplication\obj\Debug\BikeBoatApplication.csprojResolveAssemblyReference.cache
+D:\Koulujutut\git\BikeBoatApplication\obj\Debug\BikeBoatApplication.exe
+D:\Koulujutut\git\BikeBoatApplication\obj\Debug\BikeBoatApplication.pdb
