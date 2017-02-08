@@ -1,0 +1,5 @@
+D:\Koulujutut\git\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+D:\Koulujutut\git\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+D:\Koulujutut\git\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+D:\Koulujutut\git\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+D:\Koulujutut\git\EmployeeApplication\obj\Debug\EmployeeApplication.pdb

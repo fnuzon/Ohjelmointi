@@ -3,3 +3,9 @@ D:\H8\AmplifierApplication\bin\Debug\AmplifierApplication.exe
 D:\H8\AmplifierApplication\bin\Debug\AmplifierApplication.pdb
 D:\H8\AmplifierApplication\obj\Debug\AmplifierApplication.exe
 D:\H8\AmplifierApplication\obj\Debug\AmplifierApplication.pdb
+D:\Koulujutut\git\AmplifierApplication\bin\Debug\AmplifierApplication.exe.config
+D:\Koulujutut\git\AmplifierApplication\obj\Debug\AmplifierApplication.exe
+D:\Koulujutut\git\AmplifierApplication\obj\Debug\AmplifierApplication.pdb
+D:\Koulujutut\git\AmplifierApplication\bin\Debug\AmplifierApplication.exe
+D:\Koulujutut\git\AmplifierApplication\bin\Debug\AmplifierApplication.pdb
+D:\Koulujutut\git\AmplifierApplication\obj\Debug\AmplifierApplication.csprojResolveAssemblyReference.cache
