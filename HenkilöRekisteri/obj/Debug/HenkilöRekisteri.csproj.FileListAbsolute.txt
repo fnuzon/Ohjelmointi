@@ -1,0 +1,5 @@
+D:\h8946\HenkilöRekisteri\bin\Debug\HenkilöRekisteri.exe.config
+D:\h8946\HenkilöRekisteri\bin\Debug\HenkilöRekisteri.exe
+D:\h8946\HenkilöRekisteri\bin\Debug\HenkilöRekisteri.pdb
+D:\h8946\HenkilöRekisteri\obj\Debug\HenkilöRekisteri.exe
+D:\h8946\HenkilöRekisteri\obj\Debug\HenkilöRekisteri.pdb
