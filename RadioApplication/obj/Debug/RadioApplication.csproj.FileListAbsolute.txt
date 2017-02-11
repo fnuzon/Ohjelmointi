@@ -10,3 +10,6 @@ D:\h8946\RadioApplication\obj\Debug\RadioApplication.pdb
 D:\h8946\RadioApplication\bin\Debug\RadioApplication.exe
 D:\h8946\RadioApplication\bin\Debug\RadioApplication.pdb
 D:\h8946\RadioApplication\obj\Debug\RadioApplication.csprojResolveAssemblyReference.cache
+D:\Koulujutut\koodi\RadioApplication\bin\Debug\RadioApplication.exe.config
+D:\Koulujutut\koodi\RadioApplication\obj\Debug\RadioApplication.exe
+D:\Koulujutut\koodi\RadioApplication\obj\Debug\RadioApplication.pdb
