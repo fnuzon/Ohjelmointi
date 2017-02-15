@@ -8,7 +8,21 @@ namespace CD_Application
 {
     class Song
     {
-        public string Name { get; set; }
-        public double Lenght { get; set; }
+        // Biisien kannalta kannattaa toteuttaa Biisi-luokka, jossa on käytössä yleisesti biisille kuuluvia ominaisuuksia: nimi ja pituus.
+        public string name { get; set; }
+        public string lenght { get; set; }
+        public override string ToString()
+        {
+            return name + " " + lenght + " ";
+        }
+        public Song()
+        {
+
+        }
+        public Song(string Name, string Lenght)
+        {
+            name = Name;
+            lenght = Lenght;
+        }
     }
 }

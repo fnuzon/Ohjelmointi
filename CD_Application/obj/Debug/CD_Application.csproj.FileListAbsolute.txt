@@ -1,0 +1,6 @@
+D:\Koulujutut\git\CD_Application\bin\Debug\CD_Application.exe.config
+D:\Koulujutut\git\CD_Application\bin\Debug\CD_Application.exe
+D:\Koulujutut\git\CD_Application\bin\Debug\CD_Application.pdb
+D:\Koulujutut\git\CD_Application\obj\Debug\CD_Application.csprojResolveAssemblyReference.cache
+D:\Koulujutut\git\CD_Application\obj\Debug\CD_Application.exe
+D:\Koulujutut\git\CD_Application\obj\Debug\CD_Application.pdb
