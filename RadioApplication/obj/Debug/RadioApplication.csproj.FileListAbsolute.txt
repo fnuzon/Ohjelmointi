@@ -13,3 +13,6 @@ D:\h8946\RadioApplication\obj\Debug\RadioApplication.csprojResolveAssemblyRefere
 D:\Koulujutut\koodi\RadioApplication\bin\Debug\RadioApplication.exe.config
 D:\Koulujutut\koodi\RadioApplication\obj\Debug\RadioApplication.exe
 D:\Koulujutut\koodi\RadioApplication\obj\Debug\RadioApplication.pdb
+D:\H8946k\RadioApplication\bin\Debug\RadioApplication.exe.config
+D:\H8946k\RadioApplication\obj\Debug\RadioApplication.exe
+D:\H8946k\RadioApplication\obj\Debug\RadioApplication.pdb
