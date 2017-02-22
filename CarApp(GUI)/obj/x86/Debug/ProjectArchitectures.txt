@@ -1,1 +1,1 @@
-D:\H8946k\CarApp(GUI)\CarApp(GUI).csproj;x86
+D:\Koulujutut\kooddi\CarApp(GUI)\CarApp(GUI).csproj;x86

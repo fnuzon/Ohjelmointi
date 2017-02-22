@@ -1,0 +1,1 @@
+D:\Koulujutut\kooddi\EuroMarkkaCalc\EuroMarkkaCalc.csproj;x86

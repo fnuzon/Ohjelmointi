@@ -1,0 +1,6 @@
+D:\Koulujutut\kooddi\TTek\bin\Debug\TTek.exe.config
+D:\Koulujutut\kooddi\TTek\bin\Debug\TTek.exe
+D:\Koulujutut\kooddi\TTek\bin\Debug\TTek.pdb
+D:\Koulujutut\kooddi\TTek\obj\Debug\txtHandle.csprojResolveAssemblyReference.cache
+D:\Koulujutut\kooddi\TTek\obj\Debug\TTek.exe
+D:\Koulujutut\kooddi\TTek\obj\Debug\TTek.pdb
